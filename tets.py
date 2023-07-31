@@ -1,0 +1,3 @@
+# linkedlist
+def Node:
+ 
